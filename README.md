@@ -1,1 +1,1 @@
-# resilience-data-model
+# Resilience Data Model
