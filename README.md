@@ -1,4 +1,4 @@
-*Insert UML here*
+[UML Diagram](ResilienceDataModelUML.drawio)
 # Resilience Data Model
 |SME type <br> idShort|Description|
 |:----|:----|
